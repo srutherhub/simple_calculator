@@ -1,7 +1,9 @@
+table{
+  background-color: aliceblue;
+}
 table thead{
   background-color: aliceblue;
 }
-
 button{
   border-radius: 10px;
   background-color: 	lavender;
