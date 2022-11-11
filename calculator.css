@@ -1,0 +1,25 @@
+table thead{
+  background-color: aliceblue;
+}
+
+button{
+  border-radius: 10px;
+  background-color: 	lavender;
+}
+
+table, td {
+  border: 1px solid black;
+}
+table tr{
+  padding: 1em
+}
+table td{
+  text-align: right;
+}
+
+body{
+  display: grid;
+  place-items: center;
+  min-height: 90vh;
+  background-color: lemonchiffon;
+}
