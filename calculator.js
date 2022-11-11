@@ -20,6 +20,8 @@ function clearDisplay(){
   sum = ""
   display.textContent = '';
   display.innerHTML = "&nbsp;"
+  paren = true;
+  paren2 = true;
 }
 
 function calculate(){
